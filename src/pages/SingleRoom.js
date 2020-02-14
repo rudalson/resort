@@ -71,14 +71,14 @@ export default class SingleRoom extends Component {
                         </article>
                         <article className="info">
                             <h3>info</h3>
-                            <h6>price : ${price}</h6>
+                            <h6>요금 : ${price}</h6>
                             <h6>size : {size} SQFT</h6>
                             <h6>
-                                max capacity :
-                                {capacity > 1 ? `${capacity} people` : `${capacity} person`}
+                                최대 인원 :
+                                {capacity > 1 ? `${capacity} 명` : `${capacity} person`}
                             </h6>
-                            <h6>{pets ? "pets allowed" : "no pets allowed"}</h6>
-                            <h6>{breakfast && "free breakfast included"}</h6>
+                            <h6>{pets ? "애완동물 허용" : "애완동물 불가"}</h6>
+                            <h6>{breakfast && "조식 포함"}</h6>
                         </article>
                     </div>
                 </section>
