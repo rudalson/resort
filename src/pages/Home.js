@@ -9,7 +9,7 @@ export default function Home() {
     return (
         <>
             <Hero>
-                <Banner title="luxurious rooms" subtitle="deluxe rooms 10만원부터">
+                <Banner title="최고의 숙소" subtitle="deluxe rooms 10만원부터">
                     <Link to='/rooms' className="btn-primary">
                         our rooms
                     </Link>
