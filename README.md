@@ -7,8 +7,9 @@ $ npx create-react-app resort
 
 ### 추가 패키지
 ```shell script
-$ npm install react-icons --save
-$ npm i react-router-dom --save 
+$ npm i react-icons --save
+$ npm i react-router-dom --save
+$ npm i styled-components --save
 ```
 
 
