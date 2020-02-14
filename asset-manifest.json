@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/resort/static/css/main.86a4a10f.chunk.css",
-    "main.js": "/resort/static/js/main.60f02c0a.chunk.js",
-    "main.js.map": "/resort/static/js/main.60f02c0a.chunk.js.map",
+    "main.js": "/resort/static/js/main.61dc7f40.chunk.js",
+    "main.js.map": "/resort/static/js/main.61dc7f40.chunk.js.map",
     "runtime-main.js": "/resort/static/js/runtime-main.e315ad50.js",
     "runtime-main.js.map": "/resort/static/js/runtime-main.e315ad50.js.map",
-    "static/js/2.fcd5f8bc.chunk.js": "/resort/static/js/2.fcd5f8bc.chunk.js",
-    "static/js/2.fcd5f8bc.chunk.js.map": "/resort/static/js/2.fcd5f8bc.chunk.js.map",
+    "static/js/2.78948cbd.chunk.js": "/resort/static/js/2.78948cbd.chunk.js",
+    "static/js/2.78948cbd.chunk.js.map": "/resort/static/js/2.78948cbd.chunk.js.map",
     "index.html": "/resort/index.html",
-    "precache-manifest.da01e5d7b1ade8cd3d6674d4e8c3e216.js": "/resort/precache-manifest.da01e5d7b1ade8cd3d6674d4e8c3e216.js",
+    "precache-manifest.24ad6b11df54108f638a9fbada897329.js": "/resort/precache-manifest.24ad6b11df54108f638a9fbada897329.js",
     "service-worker.js": "/resort/service-worker.js",
     "static/css/main.86a4a10f.chunk.css.map": "/resort/static/css/main.86a4a10f.chunk.css.map",
-    "static/js/2.fcd5f8bc.chunk.js.LICENSE.txt": "/resort/static/js/2.fcd5f8bc.chunk.js.LICENSE.txt",
+    "static/js/2.78948cbd.chunk.js.LICENSE.txt": "/resort/static/js/2.78948cbd.chunk.js.LICENSE.txt",
     "static/media/details-1.jpeg": "/resort/static/media/details-1.33ab9f1e.jpeg",
     "static/media/details-2.jpeg": "/resort/static/media/details-2.50c23e62.jpeg",
     "static/media/details-3.jpeg": "/resort/static/media/details-3.7345b9f6.jpeg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e315ad50.js",
-    "static/js/2.fcd5f8bc.chunk.js",
+    "static/js/2.78948cbd.chunk.js",
     "static/css/main.86a4a10f.chunk.css",
-    "static/js/main.60f02c0a.chunk.js"
+    "static/js/main.61dc7f40.chunk.js"
   ]
 }
