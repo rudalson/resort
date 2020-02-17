@@ -1,6 +1,6 @@
 import React from "react";
-import { useContext } from "react";
-import { RoomContext } from "../context";
+import {useContext} from "react";
+import {RoomContext} from "../context";
 import Title from "./Title";
 
 const getUnique = (items, value) => {
@@ -45,7 +45,7 @@ export default function RoomFilter({rooms}) {
 
     return (
         <section className="filter-container">
-            <Title title="search rooms" />
+            <Title title="search rooms"/>
             <form className="filter-form">
                 {/*select type */}
                 <div className="form-group">
@@ -76,6 +76,22 @@ export default function RoomFilter({rooms}) {
                     </select>
                 </div>
                 {/* end guests */}
+
+                {/* room price */}
+                <div className="form-group">
+                    <label htmlFor="price">room price ${price}</label>
+                    <input
+                        type="range"
+                        name="price"
+                        min={minPrice}
+                        max={maxPrice}
+                        id="price"
+                        value={price}
+                        onChange={handleChange}
+                        className="form-control"
+                    />
+                </div>
+                {/* end of room price*/}
             </form>
         </section>
     )
