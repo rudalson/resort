@@ -1,5 +1,5 @@
 # Resort 추천
-리조트 홈페이지 따라하기((Updated React Beach Resort)[https://youtu.be/l0JbuMVXaTs] 클론 코딩)
+리조트 홈페이지 따라하기([Updated React Beach Resort](https://youtu.be/l0JbuMVXaTs) 클론 코딩)
 
 [![alt text](https://img.shields.io/badge/react-v16.12.0-orange.svg?longCache=true&style=flat-square)](https://github.com/facebook/react/)
 
